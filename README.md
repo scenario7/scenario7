@@ -9,6 +9,8 @@
 - 🌱 &nbsp; Learning about Machine Learning and Artificial Intelligence in iOS.
 - ✍️ &nbsp; Co-Founder of two community service startups.
 
+https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
