@@ -10,6 +10,8 @@
 - ✍️ &nbsp; Co-Founder of two community service startups.
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
