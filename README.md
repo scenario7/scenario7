@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring the bounds of creativity through code.
-- 🎓 &nbsp; Studying in the 12th Grade at Gundecha Education, Mumbai.
-- 💼 &nbsp; Working as a freelance iOS Developer and Graphic Designer.
-- 🌱 &nbsp; Learning about Machine Learning and Artificial Intelligence in iOS.
-- ✍️ &nbsp; Co-Founder of two community service startups.
+- 🎓 &nbsp; Studying CS at Manipal Institute of Technology.
+- 💼 &nbsp; Working as an iOS Developer and Graphic Designer.
+- 🌱 &nbsp; Learning javaScript and front-end development.
+- ✍️ &nbsp; Actively learning about entreprenuership skills.
 
 <h3>💻 &nbsp;My Skills</h3>
 <p>
