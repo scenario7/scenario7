@@ -2,8 +2,7 @@
 <h2> Hey there! I'm Kevin.</h2>
 
 <p align="center">
-<img src="https://thumbs.gfycat.com/ComplicatedAdmiredAllosaurus-max-1mb.gif">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scenario7)](https://github.com/scenario7/github-readme-stats)
+<img src="https://thumbs.gfycat.com/ComplicatedAdmiredAllosaurus-max-1mb.gif" height="100">
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
