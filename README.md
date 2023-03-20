@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Kevin.</h2>
 
-![](https://media1.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif?cid=ecf05e478ecx9qrdr7ox5epiejx55fhhl8y3drs40ibxjclm&rid=giphy.gif&ct=g)
+<iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G">via GIPHY</a></p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
