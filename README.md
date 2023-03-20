@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Kevin.</h2>
+<h2> नमस्ते! I'm Kevin.</h2>
 
 <p align="center">
 <img src="https://thumbs.gfycat.com/ComplicatedAdmiredAllosaurus-max-1mb.gif" height="100">
