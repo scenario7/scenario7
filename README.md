@@ -1,7 +1,9 @@
 
 <h2> Hey there! I'm Kevin.</h2>
 
+<p align="center">
 ![Alternate-text](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy-downsized.gif)
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
