@@ -1,17 +1,20 @@
 
 <h2> Hey there! I'm Kevin.</h2>
 
+![](https://media1.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif?cid=ecf05e478ecx9qrdr7ox5epiejx55fhhl8y3drs40ibxjclm&rid=giphy.gif&ct=g)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring the bounds of creativity through code.
-- 🎓 &nbsp; Studying CS at Manipal Institute of Technology.
-- 💼 &nbsp; Working as an iOS Developer and Graphic Designer.
-- 🌱 &nbsp; Learning javaScript and front-end development.
-- ✍️ &nbsp; Actively learning about entreprenuership skills.
+- 🤔 &nbsp; Building cool software mostly based on mobile.
+- 🎓 &nbsp; Studying CS at MIT-Bangalore.
+- 💼 &nbsp; iOS Developer, UI/UX and Graphic Designer.
+- 🌱 &nbsp; Trynna integrate AI into my apps.
+- ✍️ &nbsp; Chasin da bag.
 
 <h3>💻 &nbsp;My Skills</h3>
 <p align="center">
 <img alt="medium" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img alt="medium" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 <p align="center">
 <img alt="medium" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +30,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Lets Connect! </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-thomas-3a99131ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
