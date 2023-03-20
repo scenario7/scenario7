@@ -1,5 +1,5 @@
 
-<h2> <span style="color: #00FFFF">नमस्ते!</span> I'm Kevin.</h2>
+<h2> Hello <span style="color: #00FFFF">नमस्ते!</span> I'm Kevin.</h2>
 
 <p align="center">
 <img src="https://thumbs.gfycat.com/ComplicatedAdmiredAllosaurus-max-1mb.gif" height="100">
