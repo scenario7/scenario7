@@ -2,7 +2,7 @@
 <h2> Hey there! I'm Kevin.</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy-downsized.gif">
+<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized.gif">
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
