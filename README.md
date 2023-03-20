@@ -3,6 +3,7 @@
 
 <p align="center">
 <img src="https://thumbs.gfycat.com/ComplicatedAdmiredAllosaurus-max-1mb.gif">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scenario7)
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
