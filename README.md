@@ -5,7 +5,7 @@
 <img src="https://thumbs.gfycat.com/ComplicatedAdmiredAllosaurus-max-1mb.gif" height="100">
 </p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About </h3>
 
 - 🤔 &nbsp; Building cool software mostly based on mobile.
 - 🎓 &nbsp; Studying CS at MIT-Bangalore.
@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Trynna integrate AI into my apps.
 - ✍️ &nbsp; Chasin da bag.
 
-<h3>💻 &nbsp;My Skills</h3>
+<h3>💻 &nbsp;Skills</h3>
 <p align="center">
 <img alt="medium" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -32,7 +32,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Lets Connect! </h3>
+<h3> 🤝🏻 &nbsp;Connect! </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-thomas-3a99131ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
