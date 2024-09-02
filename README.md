@@ -6,10 +6,9 @@
 </p>
 <p>I'm one of those kids who grew up adoring Apple and decided to become an iOS developer. I've built apps that have gained tens of thousands of downloads and revenue, but my aim remains to build solutions to problems I face and scale it for everyone else to use.</p>
 <p>I'm also into web development and I love helping small businesses build their presence online.</p>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <h3>💻 &nbsp;Skills</h3>
 <p align="center">
 <img alt="medium" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
