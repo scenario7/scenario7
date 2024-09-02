@@ -6,12 +6,8 @@
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About </h3>
-
-- 🤔 &nbsp; Building cool software mostly based on mobile.
-- 🎓 &nbsp; Studying CS at MIT-Bangalore.
-- 💼 &nbsp; iOS Developer, UI/UX and Graphic Designer.
-- 🌱 &nbsp; Trynna integrate AI into my apps.
-- ✍️ &nbsp; Chasin da bag.
+<p>I'm one of those kids who grew up adoring Apple and decided to become an iOS developer. I've built apps that have gained tens of thousands of downloads and revenue, but my aim remains to build solutions to problems I face and scale it for everyone else to use.</p>
+<p>I'm also into web development and I love helping small businesses build their presence online.</p>
 
 <h3>💻 &nbsp;Skills</h3>
 <p align="center">
